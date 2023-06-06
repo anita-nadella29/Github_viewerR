@@ -1,0 +1,43 @@
+*{
+  background-color: rgb(222, 233, 126);
+}
+.App {
+  text-align: center;
+}
+
+.search {
+  margin-bottom: 20px;
+}
+
+.search input {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.profile {
+  margin-bottom: 20px;
+}
+
+.profile img {
+  width: 200px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.repositories {
+  margin-bottom: 20px;
+}
+
+.repositories ul {
+  list-style: none;
+  padding: 0;
+}
+
+.repositories li {
+  margin-bottom: 5px;
+}
+
+.repositories li a {
+  color: #0366d6;
+  text-decoration: none;
+}
